@@ -3,7 +3,7 @@
   "version": "0.0.6",
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "37c36656f91743ffdff541301c3ce3fff581728e",
+  "gitHead": "d7071c8b9fc7a1b43ae622f37d3c01bae0942084",
   "dependencies": {
     "module-1": "^0.0.5",
     "webpack": "^5.46.0"
