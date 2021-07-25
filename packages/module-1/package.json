@@ -1,10 +1,10 @@
 {
   "name": "module-1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "UI": "^1.0.0",
+    "UI": "^0.0.2",
     "react": "^17.0.2"
   },
   "gitHead": "aaa624d9105f826e18a498380a817099e9c421bd"
