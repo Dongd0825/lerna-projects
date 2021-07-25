@@ -1,11 +1,11 @@
 {
   "name": "module-ui",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "index.js",
   "license": "MIT",
   "gitHead": "9227a32b73d429fb5f841528ff12a5e01964cb4d",
   "dependencies": {
-    "module-1": "^0.0.4",
+    "module-1": "^0.0.5",
     "webpack": "^5.46.0"
   }
 }
