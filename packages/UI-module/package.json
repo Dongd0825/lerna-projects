@@ -1,9 +1,9 @@
 {
-  "name": "module-ui",
+  "name": "module-ui-dd",
   "version": "0.0.7",
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "d7071c8b9fc7a1b43ae622f37d3c01bae0942084",
+  "gitHead": "82e1e48abebc9cc8c02b2c8937b609ef0fc7e93c",
   "dependencies": {
     "module-1": "^0.0.5",
     "webpack": "^5.46.0"
