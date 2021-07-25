@@ -1,10 +1,10 @@
 {
   "name": "module-2-dd",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "module-ui-dd": "^0.0.8",
+    "module-ui-dd": "^0.0.9",
     "react": "^17.0.2"
   },
   "gitHead": "82e1e48abebc9cc8c02b2c8937b609ef0fc7e93c"
