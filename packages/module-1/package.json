@@ -4,8 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "UI": "^0.0.4",
     "react": "^17.0.2"
   },
-  "gitHead": "aaee0ca44aa23457be6beaa53ea027c60c72aef4"
+  "gitHead": "9227a32b73d429fb5f841528ff12a5e01964cb4d"
 }
